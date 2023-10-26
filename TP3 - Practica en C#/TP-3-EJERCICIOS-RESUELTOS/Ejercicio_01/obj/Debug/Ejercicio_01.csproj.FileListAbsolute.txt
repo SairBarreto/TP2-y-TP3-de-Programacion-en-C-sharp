@@ -1,0 +1,10 @@
+C:\Users\user\Documents\PROGRAMAS\C#\Proyectos_Mios\TP-3-EJERCICIOS-RESUELTOS\Ejercicio_01\bin\Debug\Ejercicio_01.exe.config
+C:\Users\user\Documents\PROGRAMAS\C#\Proyectos_Mios\TP-3-EJERCICIOS-RESUELTOS\Ejercicio_01\bin\Debug\Ejercicio_01.exe
+C:\Users\user\Documents\PROGRAMAS\C#\Proyectos_Mios\TP-3-EJERCICIOS-RESUELTOS\Ejercicio_01\bin\Debug\Ejercicio_01.pdb
+C:\Users\user\Documents\PROGRAMAS\C#\Proyectos_Mios\TP-3-EJERCICIOS-RESUELTOS\Ejercicio_01\obj\Debug\Ejercicio_01.csproj.AssemblyReference.cache
+C:\Users\user\Documents\PROGRAMAS\C#\Proyectos_Mios\TP-3-EJERCICIOS-RESUELTOS\Ejercicio_01\obj\Debug\Ejercicio_01.Form1.resources
+C:\Users\user\Documents\PROGRAMAS\C#\Proyectos_Mios\TP-3-EJERCICIOS-RESUELTOS\Ejercicio_01\obj\Debug\Ejercicio_01.Properties.Resources.resources
+C:\Users\user\Documents\PROGRAMAS\C#\Proyectos_Mios\TP-3-EJERCICIOS-RESUELTOS\Ejercicio_01\obj\Debug\Ejercicio_01.csproj.GenerateResource.cache
+C:\Users\user\Documents\PROGRAMAS\C#\Proyectos_Mios\TP-3-EJERCICIOS-RESUELTOS\Ejercicio_01\obj\Debug\Ejercicio_01.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\PROGRAMAS\C#\Proyectos_Mios\TP-3-EJERCICIOS-RESUELTOS\Ejercicio_01\obj\Debug\Ejercicio_01.exe
+C:\Users\user\Documents\PROGRAMAS\C#\Proyectos_Mios\TP-3-EJERCICIOS-RESUELTOS\Ejercicio_01\obj\Debug\Ejercicio_01.pdb

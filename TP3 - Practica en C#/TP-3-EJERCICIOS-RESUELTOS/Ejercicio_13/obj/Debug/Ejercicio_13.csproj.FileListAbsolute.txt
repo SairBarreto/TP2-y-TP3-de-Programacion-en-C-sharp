@@ -1,0 +1,10 @@
+C:\Users\user\Documents\PROGRAMAS\C#\Proyectos_Mios\TP 2 (Teorico) y TP 3 (Practico)\TP-3-EJERCICIOS-RESUELTOS\Ejercicio_13\bin\Debug\Ejercicio_13.exe.config
+C:\Users\user\Documents\PROGRAMAS\C#\Proyectos_Mios\TP 2 (Teorico) y TP 3 (Practico)\TP-3-EJERCICIOS-RESUELTOS\Ejercicio_13\bin\Debug\Ejercicio_13.exe
+C:\Users\user\Documents\PROGRAMAS\C#\Proyectos_Mios\TP 2 (Teorico) y TP 3 (Practico)\TP-3-EJERCICIOS-RESUELTOS\Ejercicio_13\bin\Debug\Ejercicio_13.pdb
+C:\Users\user\Documents\PROGRAMAS\C#\Proyectos_Mios\TP 2 (Teorico) y TP 3 (Practico)\TP-3-EJERCICIOS-RESUELTOS\Ejercicio_13\obj\Debug\Ejercicio_13.csproj.AssemblyReference.cache
+C:\Users\user\Documents\PROGRAMAS\C#\Proyectos_Mios\TP 2 (Teorico) y TP 3 (Practico)\TP-3-EJERCICIOS-RESUELTOS\Ejercicio_13\obj\Debug\Ejercicio_13.Form1.resources
+C:\Users\user\Documents\PROGRAMAS\C#\Proyectos_Mios\TP 2 (Teorico) y TP 3 (Practico)\TP-3-EJERCICIOS-RESUELTOS\Ejercicio_13\obj\Debug\Ejercicio_13.Properties.Resources.resources
+C:\Users\user\Documents\PROGRAMAS\C#\Proyectos_Mios\TP 2 (Teorico) y TP 3 (Practico)\TP-3-EJERCICIOS-RESUELTOS\Ejercicio_13\obj\Debug\Ejercicio_13.csproj.GenerateResource.cache
+C:\Users\user\Documents\PROGRAMAS\C#\Proyectos_Mios\TP 2 (Teorico) y TP 3 (Practico)\TP-3-EJERCICIOS-RESUELTOS\Ejercicio_13\obj\Debug\Ejercicio_13.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\PROGRAMAS\C#\Proyectos_Mios\TP 2 (Teorico) y TP 3 (Practico)\TP-3-EJERCICIOS-RESUELTOS\Ejercicio_13\obj\Debug\Ejercicio_13.exe
+C:\Users\user\Documents\PROGRAMAS\C#\Proyectos_Mios\TP 2 (Teorico) y TP 3 (Practico)\TP-3-EJERCICIOS-RESUELTOS\Ejercicio_13\obj\Debug\Ejercicio_13.pdb
